@@ -1,0 +1,6 @@
+package server.maps;
+
+public enum MapleMapObjectType {
+
+    NPC, MONSTER, ITEM, PLAYER, DOOR, SUMMON, HAKU, SHOP, AFFECTED_AREA, REACTOR, EXTRACTOR, FAMILIAR, HIRED_MERCHANT, RUNE, KITE;
+}
